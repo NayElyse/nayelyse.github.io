@@ -1,9 +1,7 @@
 body {
 	text-align: left;
-	background: url("https://s-media-cache-ak0.pinimg.com/564x/59/fa/c7/59fac7c32328f75fa3d3904f8f14823e.jpg") ;
-	background-size: cover;
 	background-color: #D2D4FF;
-	color: #E7E4FF;
+	color: #02094F;
 	font-family: Arial, sans-serif;
 	font-size: 18px;
 }
@@ -22,14 +20,14 @@ h1 {
 
 h3, p {
 	text-align: left;
-	color: #E7E4FF;
+	color: #02094F;
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 }
 
 ul, li {
 	text-align: left;
-	color: #E7E4FF;
+	color: #02094F;
 	font-size: 18px;
 }
 
