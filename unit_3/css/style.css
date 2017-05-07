@@ -1,6 +1,6 @@
 body {
 	text-align: left;
-	background: url("images/Unit_3_Project.jpg");
+	background: ("images/Unit_3_Project.jpg");
 	background-size: cover;
 	color: #D2D4FF;
 	font-family: Arial, sans-serif;
