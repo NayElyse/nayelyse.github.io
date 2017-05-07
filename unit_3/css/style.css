@@ -9,6 +9,7 @@ body {
 h1 {
 	text-align: center;
 	background-color: #02094F;
+	color: #E7E4FF;
 	font-family: Helvetica;
 	font-size: 24px;
 	font-style: normal;
@@ -27,13 +28,14 @@ p, h3 {
 ul {
 	text-align: left;
 	color: #39276B;
+	font-size: 18px;
 }
 
 #slogan {
 	text-align: center;
 	color: #39276B;
 	font-family: Arial, sans-serif;
-	font-size: 20px;
+	font-size: 22px;
 	font-style: italic;
 	font-weight: normal;
 }
