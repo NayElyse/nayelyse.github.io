@@ -1,5 +1,6 @@
 body {
 	text-align: left;
+	background: url("https://s-media-cache-ak0.pinimg.com/564x/59/fa/c7/59fac7c32328f75fa3d3904f8f14823e.jpg") ;
 	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: Arial, sans-serif;
@@ -11,14 +12,14 @@ h1 {
 	background-color: #02094F;
 	color: #E7E4FF;
 	font-family: Helvetica;
-	font-size: 24px;
+	font-size: 32px;
 	font-style: normal;
 	font-weight: bold;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
-p, h3 {
+h3, p {
 	text-align: left;
 	color: #39276B;
 	font-family: Arial, sans-serif;
@@ -35,7 +36,7 @@ ul {
 	text-align: center;
 	color: #39276B;
 	font-family: Arial, sans-serif;
-	font-size: 22px;
+	font-size: 28px;
 	font-style: italic;
 	font-weight: normal;
 }
