@@ -26,10 +26,14 @@ h3, p {
 	font-size: 16px;
 }
 
-ul {
+ul, li {
 	text-align: left;
 	color: #39276B;
 	font-size: 18px;
+}
+
+img {
+	text-align: center;
 }
 
 #slogan {
