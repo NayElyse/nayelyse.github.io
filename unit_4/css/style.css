@@ -22,14 +22,6 @@ h1 {
 	text-transform: uppercase;
 }
 
-#header {
-	text-align: center;
-	background-color: #02094F;
-	color: #000000;
-	font-family: Josefin Slab, serif;
-	font-size: 48px;
-	line-height: 2.0em;
-	text-transform: uppercase;
 }
 
 h3 {
@@ -48,7 +40,7 @@ h3 {
 	text-align: center;
 	background-color: #D2D4FF
 	color: #FFFFFF;
-	font-family: Domine, serif;
+	font-family: Merriweather, serif;
 	font-size: 18px;
 	font-style: normal;
 	font-weight: bold;
@@ -83,7 +75,7 @@ ul, li {
 }
 
 img {
-	margin: center;
+	margin: 3.0em;
 	background-color: #D2D4FF
 	color: #02094F;
 }
