@@ -23,13 +23,23 @@ h1 {
 	text-transform: uppercase;
 }
 
+#header {
+	text-align: center;
+	background-color: #02094F;
+	color: #E7E4FF;
+	font-family: Crete Round, serif;
+	font-size: 48px;
+	line-height: 2.0em;
+	text-transform: uppercase;
+}
+
 h3 {
 	text-align: center;
 	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: Merriweather, serif;
 	font-size: 20px;
-	font-style: italic;
+	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -41,7 +51,7 @@ h3 {
 	color: #FFFFFF;
 	font-family: Courgette, cursive;
 	font-size: 24px;
-	font-style: italic;
+	font-style: normal;
 	font-weight: bold;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -74,6 +84,7 @@ ul, li {
 
 img {
 	text-align: center;
+	margin: 2.0em;
 	background-color: #D2D4FF
 	color: #02094F;
 }
