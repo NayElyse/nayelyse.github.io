@@ -8,7 +8,6 @@ body {
 	font-style:normal;
 	font-weight: normal;
 	text-decoration: none;
-	text-transform: lowercase;
 }
 
 h1 {
@@ -16,7 +15,7 @@ h1 {
 	background-color: #02094F;
 	color: #E7E4FF;
 	font-family: Crete Round, serif;
-	font-size: 32px;
+	font-size: 48px;
 	line-height: 2.0em; 
 	font-style: normal;
 	font-weight: bold;
@@ -41,9 +40,9 @@ h3 {
 	background-color: #D2D4FF
 	color: #FFFFFF;
 	font-family: Courgette, cursive;
-	font-size: 20px;
+	font-size: 24px;
 	font-style: italic;
-	font-weight: normal;
+	font-weight: bold;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -67,6 +66,7 @@ ul, li {
 	color: #02094F;
 	font-family: Merriweather, serif;
 	font-size: 16px;
+	margin: 2.0em;
 	font-style: normal;
 	font-weight: normal;
 	text-decoration: none;
