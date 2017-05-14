@@ -13,15 +13,24 @@ body {
 h1 {
 	text-align: center;
 	background-color: #02094F;
-	color: #D2D4FF;
+	color: #000000;
 	font-family: Josefin Slab, serif;
 	font-size: 48px;
 	line-height: 2.0em; 
+	font-style: normal;
 	font-weight: bolder;
 	text-decoration: none;
 	text-transform: uppercase;
 }
 
+#header {
+	text-align: center;
+	background-color: #02094F;
+	color: #000000;
+	font-family: Josefin Slab, serif;
+	font-size: 48px;
+	line-height: 2.0em;
+	text-transform: uppercase;
 }
 
 h3 {
@@ -40,10 +49,10 @@ h3 {
 	text-align: center;
 	background-color: #D2D4FF
 	color: #FFFFFF;
-	font-family: Merriweather, serif;
-	font-size: 18px;
+	font-family: Domine, serif;
+	font-size: 24px;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: bolder;
 	text-decoration: none;
 	text-transform: uppercase;
 }
@@ -75,7 +84,7 @@ ul, li {
 }
 
 img {
-	margin: 3.0em;
+	margin: center;
 	background-color: #D2D4FF
 	color: #02094F;
 }
