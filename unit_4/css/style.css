@@ -7,19 +7,17 @@ body {
 	line-height: 1.5em; 
 	font-style: normal;
 	font-weight: bold;
-	text-decoration: none;
 }
 
 h1 {
 	text-align: center;
 	background-color: #02094F;
-	color: #000000;
+	color: #D2D4FF;
 	font-family: Josefin Slab, serif;
 	font-size: 48px;
 	line-height: 2.0em; 
 	font-style: normal;
 	font-weight: bolder;
-	text-decoration: none;
 	text-transform: uppercase;
 }
 
@@ -31,25 +29,23 @@ h3 {
 	font-size: 20px;
 	font-style: normal;
 	font-weight: bold;
-	text-decoration: none;
 	text-transform: uppercase;
 }
 
 #slogan {
 	text-align: center;
-	background-color: #D2D4FF
-	color: #FFFFFF;
+	background-color: #D2D4FF;
+	color: #02094F;
 	font-family: Domine, serif;
 	font-size: 24px;
 	font-style: normal;
 	font-weight: bolder;
-	text-decoration: none;
 	text-transform: uppercase;
 }
 
 p {
- text-align: left;
- background-color: #D2D4FF
+	text-align: left;
+ background-color: #D2D4FF; 
  color: #02094F;
  font-family: Merriweather, serif;
  font-size: 16px;
@@ -57,12 +53,11 @@ p {
  margin: 2.0em;
  font-style: normal;
  font-weight: bold;
- text-decoration: none;
 }
 
 ul, li {
 	text-align: left;
-	background-color: #D2D4FF
+	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: Merriweather, serif;
 	font-size: 16px;
@@ -75,6 +70,6 @@ ul, li {
 
 img {
 	margin: center;
-	background-color: #D2D4FF
+	background-color: #D2D4FF;
 	color: #02094F;
 }
