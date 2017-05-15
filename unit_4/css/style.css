@@ -8,14 +8,15 @@ body {
 	font-size: 16px;
 	line-height: 1.5em;
 	margin: 2em;
-	text-transform: lowercase;
+	text-transform: none;
 }
 
 h1 {
 	text-align: center;
 	background-color: #02094F;
-	color: #E7E4FF;
+	color: #FFFFFF;
 	font-family: 'Josefin Slab', serif;
+	line-height: 1.5em;
 	font-size: 32px;
 	font-weight: bold;
 	text-transform: uppercase;
@@ -39,7 +40,7 @@ h3 {
 	font-family: 'Josefin Slab', serif;
 	line-height: 1.5em;
 	font-size: 26px;
-	font-style: italic;
+	font-style: normal;
 	text-transform: uppercase;
 }
 
