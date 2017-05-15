@@ -1,26 +1,22 @@
-@import url('https://fonts.googleapis.com/css?family=Merriweather');
-@import url('https://fonts.googleapis.com/css?family=Josefin+Slab');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Merriweather');
 
 body {
 	text-align: left;
 	background-color: #D2D4FF;
 	color: #02094F;
-	font-family: Merriweather, serif;
-	font-size: 18px;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
 	line-height: 1.5em;
-	margin: 2.0em;
-	font-style: normal;
-	font-weight: bold;
+	margin: 2em;
+	text-transform: lowercase;
 }
 
 h1 {
 	text-align: center;
 	background-color: #02094F;
-	color: #D2D4FF;
-	font-family: Josefin Slab, serif;
-	font-size: 48px;
-	line-height: 2.0em; 
-	font-style: normal;
+	color: #E7E4FF;
+	font-family: 'Josefin Slab', serif;
+	font-size: 32px;
 	font-weight: bold;
 	text-transform: uppercase;
 }
@@ -29,49 +25,52 @@ h3 {
 	text-align: center;
 	background-color: #D2D4FF;
 	color: #02094F;
-	font-family: Merriweather, serif;
+	font-family: 'Merriweather', serif;
 	font-size: 20px;
-	font-style: normal;
-	font-weight: bold;
+	line-height: 1.5em,
+	font-style: italic;
 	text-transform: uppercase;
 }
 
 #slogan {
 	text-align: center;
 	background-color: #D2D4FF;
-	color: #02094F;
-	font-family: Josefin Slab, serif;
-	font-size: 24px;
+	color: #FFFFFF;
+	font-family: 'Josefin Slab', serif;
 	line-height: 1.5em;
-	font-style: normal;
-	font-weight: bold;
+	font-size: 26px;
+	font-style: italic;
 	text-transform: uppercase;
 }
 
 p {
-	text-align: left;
-	background-color: #D2D4FF; 
-	color: #02094F;
-	font-family: Merriweather, serif;
-	font-size: 16px;
-	line-height: 1.5em;
-	margin: 2.0em;
-	font-weight: bold;
+ text-align: left;
+ background-color: #D2D4FF;
+ color: #02094F;
+ font-family: 'Merriweather', serif;
+ line-height: 1.5em;
+ margin: 2em;
+ font-size: 16px;
+ font-style: normal;
+ font-weight: normal;
+ text-decoration: none;
 }
 
 ul, li {
 	text-align: left;
 	background-color: #D2D4FF;
 	color: #02094F;
-	font-family: Merriweather, serif;
+	font-family: 'Merriweather', serif;
+	line-height: 1.5em;
+	margin: 2em;
 	font-size: 16px;
-	line-height: 0.5em;
-	margin: 2.0em;
 	font-style: normal;
-	font-weight: bold;
+	font-weight: normal;
+	text-decoration: none;
 }
 
 img {
-	background-color: #D2D4FF;
+	text-align: center;
+	background-color: #D2D4FF
 	color: #02094F;
 }
