@@ -2,6 +2,8 @@
 
 body {
 	text-align: left;
+	background: url(https://drive.google.com/drive/folders/0B3xHvU79H8S4WUdpYVMwdXdmYXM)
+	background-size: cover;
 	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: 'Merriweather', serif;
@@ -22,7 +24,7 @@ h1 {
 	text-transform: uppercase;
 }
 
-h3 {
+h2, h3 {
 	text-align: center;
 	background-color: #D2D4FF;
 	color: #02094F;
