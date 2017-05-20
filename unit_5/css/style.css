@@ -1,4 +1,4 @@
-body {
+body, main {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
@@ -39,6 +39,12 @@ h4 {
 	padding: 20px;
 	text-align: center;
 	text-transform: uppercase;
+}
+
+h5 {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #slogan {
