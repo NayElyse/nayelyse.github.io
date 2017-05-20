@@ -33,6 +33,14 @@ h3 {
 	text-align: center;
 }
 
+h4 {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
 #slogan {
 	text-align: center;
 	background-color: #FFED74;
