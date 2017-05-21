@@ -84,7 +84,7 @@ nav {
 	margin: 2em;
 }
 
-h3 {
+h3, h4 {
 	font-family: 'Josefin Slab', serif;
 	font-size: 18px;
 	color: #FFF;
@@ -102,3 +102,9 @@ p {
  	font-size: 16px;
 }
 
+ul, #class {
+	background-color: #D2D4FF;
+	color: #FFFFFF;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+}
