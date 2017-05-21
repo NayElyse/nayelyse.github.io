@@ -108,3 +108,10 @@ ul, #class {
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 }
+
+footer {
+	background-color: #D2D4FF;
+	color: #FFF;
+	font-family: 'Merriweather', serif;
+	font-size: 12px;
+}
