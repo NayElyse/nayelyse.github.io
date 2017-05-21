@@ -21,13 +21,17 @@ header {
 
 h1 {
 	text-align: center;
-	background-color: #02094F;
 	color: #FFFFFF;
 	font-family: 'Josefin Slab', serif;
-	line-height: 1.5em;
+	line-height: 3.5em;
 	font-size: 32px;
 	font-weight: bold;
 	text-transform: uppercase;
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
 }
 
 h2 {
@@ -46,7 +50,7 @@ h2 {
 	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: 'Josefin Slab', serif;
-	line-height: 1.5em;
+	line-height: 3.5em;
 	font-size: 26px;
 	font-style: normal;
 	margin: 2em;
@@ -62,26 +66,14 @@ nav {
 	background-color: #D2D4FF;
 	color: #02094F;
 	margin: 2em;
-	padding: 2opx;
+	padding: 20px;
 }
 
-#one {
+#one, #two, #three {
 	background-color: #D2D4FF;
 	color: #02094F;
 	margin: 2em;
 	padding: 20px;
-}
-
-#two {
-	background-color: #D2D4FF;
-	color: #02094F;
-	margin: 2em;
-}
-
-#three {
-	background-color: #D2D4FF;
-	color: #02094F;
-	margin: 2em;
 }
 
 h3, h4 {
@@ -93,6 +85,7 @@ h3, h4 {
 	font-weight: bold;
 	text-transform: uppercase;
 	margin: 2em;
+	padding: 20px;
 }
 
 p {
