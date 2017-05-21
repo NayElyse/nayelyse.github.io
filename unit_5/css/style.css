@@ -35,7 +35,7 @@ h3 {
 }
 
 h4 {
-	background-color: #FFED74;
+	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px;
 	text-align: center;
@@ -75,6 +75,7 @@ h5 {
 }
 
 img {
+	background-color: #FFED74;
 	display: block;
 	margin: 0 auto;
 }
@@ -83,7 +84,8 @@ ul {
 	background-color: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
-	font-size: 18px;
+	font-size: 22px;
+	text-align: center;
 }
 
 footer {
