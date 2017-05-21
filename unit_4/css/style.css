@@ -2,7 +2,7 @@
 
 body {
 	text-align: left;
-	background-color: #02094F;
+	background-color: #D2D4FF;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 	line-height: 1.5em;
@@ -88,10 +88,11 @@ h3, h4 {
 	background-color: #D2D4FF;
 	font-family: 'Josefin Slab', serif;
 	font-size: 22px;
-	color: #FFF;
+	color: #02094F;
 	text-align: center;
 	font-weight: bold;
 	text-transform: uppercase;
+	margin: 2em;
 }
 
 p {
@@ -106,7 +107,7 @@ p {
 
 ul, #class {
 	background-color: #D2D4FF;
-	color: #FFFFFF;
+	color: #02094F;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 	margin: 2em;
@@ -117,4 +118,6 @@ footer {
 	color: #FFF;
 	font-family: 'Merriweather', serif;
 	font-size: 12px;
+	text-align: center;
+	margin: 2em;
 }
