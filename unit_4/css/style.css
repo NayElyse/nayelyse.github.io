@@ -16,6 +16,7 @@ img {
 
 header {
 	background-color: #02094F;
+	text-align: center;
 }
 
 h1 {
@@ -53,6 +54,31 @@ h2 {
 
 nav {
 	background-color: #D2D4FF;
+	color: #FFF;
+}
+
+#about {
+	background-color: #D2D4FF;
+	color: #02094F;
+	margin: 2em;
+}
+
+#one {
+	background-color: #D2D4FF;
+	color: #02094F;
+	margin: 2em;
+}
+
+#two {
+	background-color: #D2D4FF;
+	color: #02094F;
+	margin: 2em;
+}
+
+#three {
+	background-color: #D2D4FF;
+	color: #02094F;
+	margin: 2em;
 }
 
 h3 {
@@ -62,15 +88,12 @@ h3 {
 }
 
 p {
- text-align: left;
- background-color: #D2D4FF;
- color: #02094F;
- font-family: 'Merriweather', serif;
- line-height: 1.5em;
- margin: 2em;
- font-size: 16px;
- font-style: normal;
- font-weight: normal;
- text-decoration: none;
+ 	text-align: left;
+ 	background-color: #D2D4FF;
+ 	color: #02094F;
+ 	font-family: 'Merriweather', serif;
+ 	line-height: 1.5em;
+ 	margin: 2em;
+ 	font-size: 16px;
 }
 
