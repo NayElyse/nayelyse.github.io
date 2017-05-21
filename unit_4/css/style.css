@@ -94,7 +94,7 @@ h3, h5 {
 	padding: 20px;
 }
 
-p, h4 {
+p, h4, ul {
  	text-align: left;
  	background-color: #D2D4FF;
  	color: #02094F;
@@ -104,12 +104,16 @@ p, h4 {
  	font-size: 16px;
 }
 
-ul, #class {
+#class {
 	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 	margin: 2em;
+}
+
+aside {
+	background-color: #A6CBFF;
 }
 
 footer {
