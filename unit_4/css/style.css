@@ -49,6 +49,7 @@ h2 {
 	line-height: 1.5em;
 	font-size: 26px;
 	font-style: normal;
+	margin: 2em;
 	text-transform: uppercase;
 }
 
@@ -61,12 +62,14 @@ nav {
 	background-color: #D2D4FF;
 	color: #02094F;
 	margin: 2em;
+	padding: 2opx;
 }
 
 #one {
 	background-color: #D2D4FF;
 	color: #02094F;
 	margin: 2em;
+	padding: 20px;
 }
 
 #two {
@@ -84,7 +87,9 @@ nav {
 h3 {
 	font-family: 'Josefin Slab', serif;
 	font-size: 18px;
-	color: #02094F;
+	color: #FFF;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 p {
