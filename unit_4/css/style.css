@@ -10,6 +10,14 @@ body {
 	text-transform: none;
 }
 
+img {
+	width: 400px;
+}
+
+header {
+	background-color: #02094F;
+}
+
 h1 {
 	text-align: center;
 	background-color: #02094F;
@@ -21,7 +29,7 @@ h1 {
 	text-transform: uppercase;
 }
 
-h2, h3 {
+h2 {
 	text-align: center;
 	background-color: #D2D4FF;
 	color: #02094F;
@@ -43,6 +51,16 @@ h2, h3 {
 	text-transform: uppercase;
 }
 
+nav {
+	background-color: #D2D4FF;
+}
+
+h3 {
+	font-family: 'Josefin Slab', serif;
+	font-size: 18px;
+	color: #02094F;
+}
+
 p {
  text-align: left;
  background-color: #D2D4FF;
@@ -56,21 +74,3 @@ p {
  text-decoration: none;
 }
 
-ul, li {
-	text-align: left;
-	background-color: #D2D4FF;
-	color: #02094F;
-	font-family: 'Merriweather', serif;
-	line-height: 1.5em;
-	margin: 2em;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-}
-
-img {
-	text-align: center;
-	background-color: #D2D4FF
-	color: #02094F;
-}
