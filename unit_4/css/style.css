@@ -29,9 +29,21 @@ h1 {
 	text-transform: uppercase;
 }
 
+nav {
+	background-color: #D2D4FF;
+	color: #FFF;
+}
+
 a {
 	color: #FFF;
 	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+main {
+	background-color: #B2B8FF;
+	margin: 2em;
 }
 
 h2 {
@@ -41,7 +53,7 @@ h2 {
 	font-family: 'Merriweather', serif;
 	font-size: 20px;
 	line-height: 1.5em,
-	font-style: italic;
+	font-style: normal;
 	text-transform: uppercase;
 }
 
@@ -52,14 +64,8 @@ h2 {
 	font-family: 'Josefin Slab', serif;
 	line-height: 3.5em;
 	font-size: 26px;
-	font-style: normal;
 	margin: 2em;
 	text-transform: uppercase;
-}
-
-nav {
-	background-color: #D2D4FF;
-	color: #FFF;
 }
 
 #about {
@@ -76,7 +82,7 @@ nav {
 	padding: 20px;
 }
 
-h3, h4 {
+h3, h5 {
 	background-color: #D2D4FF;
 	font-family: 'Josefin Slab', serif;
 	font-size: 22px;
@@ -88,7 +94,7 @@ h3, h4 {
 	padding: 20px;
 }
 
-p {
+p, h4 {
  	text-align: left;
  	background-color: #D2D4FF;
  	color: #02094F;
