@@ -10,10 +10,6 @@ body {
 	text-transform: none;
 }
 
-img {
-	width: 400px;
-}
-
 header {
 	background-color: #889FE8;
 	text-align: center;
@@ -46,8 +42,21 @@ nav a{
 	margin: 10px;
 }
 
+img {
+	width: 100%;
+}
+
 main {
 	background-color: #B2B8FF;
+	margin: 2em;
+}
+
+footer {
+	background-color: #D2D4FF;
+	color: #FFF;
+	font-family: 'Merriweather', serif;
+	font-size: 12px;
+	text-align: center;
 	margin: 2em;
 }
 
@@ -60,10 +69,6 @@ h2 {
 	line-height: 1.5em,
 	font-style: normal;
 	text-transform: uppercase;
-}
-
-img {
-	width: 100%;
 }
 
 #slogan {
@@ -122,15 +127,5 @@ p, h4, ul {
 }
 
 aside {
-	background-color: #A6CBFF;
 	float: right;
-}
-
-footer {
-	background-color: #D2D4FF;
-	color: #FFF;
-	font-family: 'Merriweather', serif;
-	font-size: 12px;
-	text-align: center;
-	margin: 2em;
 }
