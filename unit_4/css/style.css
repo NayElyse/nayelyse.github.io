@@ -32,6 +32,7 @@ h1 {
 nav {
 	background-color: #D2D4FF;
 	color: #FFF;
+	line-height: 2em;
 }
 
 a {
@@ -39,6 +40,10 @@ a {
 	text-decoration: none;
 	font-size: 16px;
 	font-weight: bold;
+}
+
+nav a{
+	margin: 10px;
 }
 
 main {
@@ -55,6 +60,10 @@ h2 {
 	line-height: 1.5em,
 	font-style: normal;
 	text-transform: uppercase;
+}
+
+img {
+	width: 100%;
 }
 
 #slogan {
@@ -114,6 +123,7 @@ p, h4, ul {
 
 aside {
 	background-color: #A6CBFF;
+	float: right;
 }
 
 footer {
