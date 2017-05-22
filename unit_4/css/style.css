@@ -7,7 +7,7 @@ body {
 	font-size: 16px;
 	line-height: 1.5em;
 	margin: 2em;
-	text-transform: none;
+	padding: 20px;
 }
 
 header {
@@ -47,15 +47,13 @@ img {
 
 main {
 	background-color: #B2B8FF;
-	margin: 2em;
 }
 
 footer {
 	background-color: #D2D4FF;
-	color: #FFF;
+	color: #FFFFFF;
 	font-family: 'Merriweather', serif;
 	text-align: center;
-	margin: 2em;
 }
 
 h2 {
@@ -64,8 +62,6 @@ h2 {
 	color: #02094F;
 	font-family: 'Merriweather', serif;
 	font-size: 20px;
-	line-height: 1.5em,
-	font-style: normal;
 	text-transform: uppercase;
 }
 
@@ -76,22 +72,17 @@ h2 {
 	font-family: 'Josefin Slab', serif;
 	line-height: 3.5em;
 	font-size: 26px;
-	margin: 2em;
 	text-transform: uppercase;
 }
 
 #about {
 	background-color: #D2D4FF;
 	color: #02094F;
-	margin: 2em;
-	padding: 20px;
 }
 
 #one, #two, #three {
 	background-color: #D2D4FF;
 	color: #02094F;
-	margin: 2em;
-	padding: 20px;
 }
 
 h3, h5 {
@@ -102,8 +93,6 @@ h3, h5 {
 	text-align: center;
 	font-weight: bold;
 	text-transform: uppercase;
-	margin: 2em;
-	padding: 20px;
 }
 
 p, h4, ul {
@@ -111,15 +100,13 @@ p, h4, ul {
  	background-color: #D2D4FF;
  	color: #02094F;
  	font-family: 'Merriweather', serif;
- 	line-height: 1.5em;
- 	margin: 2em;
+ 	line-height: 2em auto;
 }
 
 .class {
 	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: 'Merriweather', serif;
-	margin: 2em;
 }
 
 aside {
