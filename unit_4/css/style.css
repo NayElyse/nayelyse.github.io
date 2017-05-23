@@ -17,6 +17,7 @@ header {
 
 h1 {
 	text-align: center;
+	background-color: #D2D4FF;
 	color: #FFFFFF;
 	font-family: 'Josefin Slab', serif;
 	line-height: 3.5em;
@@ -43,10 +44,6 @@ nav a{
 
 img {
 	width: 75%;
-}
-
-main {
-	background-color: #B2B8FF;
 }
 
 footer {
@@ -80,7 +77,7 @@ h2 {
 	color: #02094F;
 }
 
-#one, #two, #three {
+article {
 	background-color: #D2D4FF;
 	color: #02094F;
 }
@@ -90,7 +87,7 @@ h3, h5 {
 	font-family: 'Josefin Slab', serif;
 	font-size: 22px;
 	color: #02094F;
-	text-align: center;
+	text-align: left;
 	font-weight: bold;
 	text-transform: uppercase;
 }
