@@ -1,17 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Merriweather');
-
+* {margin:0;padding:0;box-sizing:border-box;}
 body {
 	text-align: left;
 	background-color: #E7E4FF;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
-	line-height: 1.5em;
-	margin: 2em;
-	padding: 20px;
+	line-height: 1.5;
+ 	color: #02094F;
 }
 
 header {
-	background-color: #889FE8;
 	text-align: center;
 }
 
@@ -23,7 +21,6 @@ h1 {
 	font-size: 32px;
 	font-weight: bold;
 	text-transform: uppercase;
-	margin: 
 }
 
 nav {
@@ -34,16 +31,14 @@ nav {
 	margin-left: 
 }
 
-a {
+nav a {
 	color: #FFF;
 	text-decoration: none;
 	font-weight: bold;
 }
-
 img {
 	width: 25%;
 }
-
 footer {
 	background-color: #CCC;
 	color: #FFFFFF;
@@ -63,13 +58,22 @@ h2 {
 	text-align: center;
 	color: #02094F;
 	font-family: 'Josefin Slab', serif;
-	line-height: 3.5em;
+	/* line-height: 3.5em; */
 	font-size: 26px;
 	text-transform: uppercase;
 }
 
-#about {
+.about {
+	background:url(../images/food%20styling.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position: center;
 	color: #02094F;
+	height: 80vh;
+	padding: 8em 0 0 8em;
+}
+.about div {
+	width:600px;
 }
 
 article {
@@ -85,19 +89,7 @@ h3, h5 {
 	font-weight: bold;
 	text-transform: uppercase;
 }
-
-p, h4, ul {
- 	text-align: left;
- 	color: #02094F;
- 	font-family: 'Merriweather', serif;
- 	line-height: 2em auto;
-}
-
 #class {
 	color: #02094F;
 	font-family: 'Merriweather', serif;
-}
-
-aside {
-	float: right;
 }
