@@ -2,7 +2,7 @@
 
 body {
 	text-align: left;
-	background-color: #B2B8FF;
+	background-color: #E7E4FF;
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 	line-height: 1.5em;
@@ -27,7 +27,7 @@ h1 {
 }
 
 nav {
-	background-color: #D2D4FF;
+	background-color: #02094F;
 	color: #FFF;
 	line-height: 2em;
 }
@@ -38,16 +38,12 @@ a {
 	font-weight: bold;
 }
 
-nav a{
-	margin: 10px;
-}
-
 img {
 	width: 75%;
 }
 
 footer {
-	background-color: #D2D4FF;
+	background-color: #02094F;
 	color: #FFFFFF;
 	font-family: 'Merriweather', serif;
 	text-align: center;
@@ -55,7 +51,6 @@ footer {
 
 h2 {
 	text-align: center;
-	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: 'Merriweather', serif;
 	font-size: 20px;
@@ -64,7 +59,6 @@ h2 {
 
 #slogan {
 	text-align: center;
-	background-color: #D2D4FF;
 	color: #02094F;
 	font-family: 'Josefin Slab', serif;
 	line-height: 3.5em;
@@ -73,17 +67,14 @@ h2 {
 }
 
 #about {
-	background-color: #D2D4FF;
 	color: #02094F;
 }
 
 article {
-	background-color: #D2D4FF;
 	color: #02094F;
 }
 
 h3, h5 {
-	background-color: #D2D4FF;
 	font-family: 'Josefin Slab', serif;
 	font-size: 22px;
 	color: #02094F;
@@ -94,14 +85,12 @@ h3, h5 {
 
 p, h4, ul {
  	text-align: left;
- 	background-color: #D2D4FF;
  	color: #02094F;
  	font-family: 'Merriweather', serif;
  	line-height: 2em auto;
 }
 
-.class {
-	background-color: #D2D4FF;
+#class {
 	color: #02094F;
 	font-family: 'Merriweather', serif;
 }
