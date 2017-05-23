@@ -74,6 +74,7 @@ h2 {
 
 article {
 	color: #02094F;
+	float: left;
 }
 
 h3, h5 {
