@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Merriweather');
+* {margin:0;padding:0;box-sizing:border-box;}
+
+/*Different font-family for header*/
+/*Different font-style for links*/
+/*Different font-style for paragraphs*/
+
+body {
+	text-align: left;
+	background-color: #D2D4FF;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+	line-height: 1.5em;
+	color: #02094F;
+	/* padding: 20px; */
+}
+
+
+header {
+	text-align: center;
+}
+
+nav {
+	background-color: #02094F;
+	color: #FFF;
+	text-align: center;
+	line-height: 2em;
+}
+
+nav a{
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 18px;
+	display: inline-block;
+	padding: 1em;
+}
+
+
+
+#about {
+	background-color: #E89C6C;
+	border: 1px black solid;
+}
+
+h1 {
+	text-align: center;
+	color: #02094F;
+	font-family: 'Josefin Slab', serif;
+	font-size: 32px;
+	text-transform: uppercase;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
+h2 {
+	text-align: center;
+	color: #FFF;
+	text-transform: uppercase;
+	border: 1px black solid;
+	font-family: 'Merriweather', serif;
+	font-size: 26px;
+	padding: 20px;
+}
+
+#slogan {
+	text-align: center;
+	color: #02094F;
+	font-family: 'Josefin Slab', serif;
+	/* line-height: 3.5em; */
+	font-size: 26px;
+	text-transform: uppercase;
+}
+.about {
+	background:url(../images/food%20styling.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	background-position: center;
+	color: #02094F;
+	height: 80vh;
+	padding: 8em 0 0 8em;
+}
+.about div {
+	width:600px;
+}
+
+p, h3, ul, #Ingredients, #items {
+	color: #02094F;
+	text-align: left;
+	font-family: 'Merriweather', serif;
+	font-size: 16px;
+	line-height: 1.5em;
+}
+
+h4 {
+	text-align: center;
+}
+
+#two_column {
+	background-color: #02094F;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-color: #E7E4FF;
+	color: #FFF;
+	border: 1px black solid;
+	padding: 20px;
+	float: left;
+	width: 32%;
+}
+
+#right {
+	background-color: #E7E4FF;
+	color: #FFF;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 65%;
+}
+
+#health_column > div, #home_column {
+	background-color: #e7e4ff;
+	width: 1200px;
+	margin: 2em auto;
+	/* height: 35em; */
+	overflow: hidden;
+}
+
+#smoothie {
+	background-color: #E7E4FF;
+	color: #FFF;
+	float: right;
+	width: 66.66%;
+	height: 100%;
+	padding: 5em;
+}
+
+#green_detox {
+	float: right;
+	width: 33.33%;
+}
+
+#garden {
+	background-color: #E7E4FF;
+	color: #FFF;
+	padding: 20px;
+	line-height: 1.5em;
+	float: left;
+	width: 32%;
+}
+
+#veggies {
+	float: right;
+	width: 67%;
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+footer {
+	text-align: center;
+	background-color: #02094F;
+	color: #FFF;
+	text-transform: uppercase;
+}
+
+footer a {
+	color: #FFF;
+}
