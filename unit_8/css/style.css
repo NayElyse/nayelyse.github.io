@@ -35,8 +35,6 @@ nav a{
 	padding: 1em;
 }
 
-
-
 #about {
 	border: 1px black solid;
 }
@@ -83,9 +81,8 @@ h2 {
 .about div {
 	width:600px;
 }
-<<<<<<< HEAD
 
-p, h5, #Ingredients, #items {
+p, h5, #items {
 	color: #02094F;
 	text-align: left;
 	font-family: 'Merriweather', serif;
@@ -105,32 +102,19 @@ ul, li {
 	margin: .5em;
 	padding-left: .25em;
 	color: #02094F;
-=======
-ul {
 	padding-left:1.25em;
->>>>>>> origin/master
 }
+
 h4 {
 	text-align: center;
 }
 
-<<<<<<< HEAD
-#food_column {
-=======
-#two_column {
+
+#food_column> div, #two_column {
 	/* background-color: #02094F; */
-	border: 1px black solid;
->>>>>>> origin/master
 	padding: 20px;
 	max-width: 40em;
 	margin: auto;
-}
-
-<<<<<<< HEAD
-#recipes> div, #food_column {
-	color: #FFF;
-	padding: 20px;
-	float: left;
 }
 
 #recipes {
@@ -142,44 +126,18 @@ h4 {
 #nachos {
 	width: 33.33%;
 	padding: 20px;
+	float: left;
 }
 
 #recipes2 {
 	padding: 20px;
 }
 
-#drink_column > div, #home_column {
+#drink_column {
 	width: 1200px;
 	margin: 2em auto;
-=======
-#left {
-	/* background-color: #E7E4FF; */
-	/* color: #FFF; */
-	/* border: 1px black solid; */
-	padding: 4em;
-	/* float: left; */
-	/* width: 50%; */
 }
 
-#right {
-	/* background-color: #E7E4FF; */
-	/* color: #FFF; */
-	/* border: 1px black solid; */
-	padding: 20px;
-	/* float: right; */
-	/* width: 50%; */
-}
-
-#health_column > div, #home_column {
-	/* background-color: #e7e4ff; */
-	/* width: 1200px; */
-	/* margin: 2em auto; */
->>>>>>> origin/master
-	/* height: 35em; */
-	overflow: hidden;
-}
-
-<<<<<<< HEAD
 #cocktail {
 	color: #FFF;
 	float: left;
@@ -188,17 +146,25 @@ h4 {
 	width: 65%;
 }
 
+
 #slushy {
 	float: left;
 	width: 35%;
+}
+
+
+#travel_column > div, #home_column {
+	/* background-color: #e7e4ff; */
+	/* width: 1200px; */
+	/* margin: 2em auto; */
+	/* height: 35em; */
+	overflow: hidden;
 }
 
 #charleston {
 	color: #FFF;
 	padding: 20px;
 	line-height: 1.5em;
-=======
-#smoothie {
 	color: #FFF;
 	float: right;
 	width: 50%;
@@ -206,25 +172,10 @@ h4 {
 	padding: 8em;
 }
 
-#green_detox {
-	float: right;
-	width: 50%;
-}
 
-#garden {
-	/* background-color: #E7E4FF; */
-	/* color: #FFF; */
-	padding: 20px;
-	line-height: 1.5em;
-	margin-right:1%;
-	float: right;
-	width: 24%;
-}
-
-#herbs {
+#Charleston {
 	float: right;
 	width: 25%;
->>>>>>> origin/master
 }
 
 
