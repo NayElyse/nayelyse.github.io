@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Josefin+Slab|Merriweather');
-* {margin:0;padding:0;box-sizing:border-box;}
+* {margin:0:padding:0;box-sizing:border-box;}
 
 /*Different font-family for header*/
 /*Different font-style for links*/
@@ -11,11 +11,8 @@ body {
 	font-family: 'Merriweather', serif;
 	font-size: 16px;
 	line-height: 1.5em;
-	color: #02094F;
-	/* padding: 20px; */
-	color: #02094F;
+	color: #02094f;
 }
-
 
 header {
 	text-align: center;
@@ -26,9 +23,8 @@ nav {
 	line-height: 2em;
 }
 
-nav a{
+nav a {
 	color: #92cdcf;
-	text-decoration: none;
 	font-weight: bold;
 	font-size: 18px;
 	display: inline-block;
@@ -37,11 +33,12 @@ nav a{
 
 #about {
 	border: 1px black solid;
+	align-content: left;
 }
 
 h1 {
 	text-align: center;
-	color: #02094F;
+	color: #02094f;
 	font-family: 'Josefin Slab', serif;
 	font-size: 32px;
 	text-transform: uppercase;
@@ -51,82 +48,70 @@ h1 {
 }
 
 h2 {
-	text-align: center;
-	color: #FFF;
+	text-align: left;
+	color: #fff;
 	text-transform: uppercase;
 	border: 1px black solid;
-	font-family: 'Merriweather', serif;
 	font-size: 26px;
 	padding: 20px;
 }
 
 #slogan {
 	text-align: center;
-	color: #02094F;
+	color: #02094f;
 	font-family: 'Josefin Slab', serif;
-	/* line-height: 3.5em; */
 	margin-bottom: 1.5em;
 	font-size: 26px;
 	text-transform: uppercase;
 }
+
 .about {
 	background:url(../images/pineapple.jpg);
-	background-size:cover;
-	background-repeat:no-repeat;
+	background-size: cover;
+	background-repeat: no-repeat;
 	background-position: center;
-	color: #02094F;
+	color: #02094f;
 	height: 80vh;
 	padding: 8em 0 0 8em;
 }
-.about div {
-	width:600px;
+.about div{
+	width: 600px;
 }
 
 p, h5, #items {
-	color: #02094F;
 	text-align: left;
-	font-family: 'Merriweather', serif;
-	font-size: 16px;
 	line-height: 1.5em;
 	padding-bottom: .5em;
 }
 
 h3 {
 	font-size: 18px;
-	color: #02094F;
 	padding: .5em;
 	text-align: left;
 }
 
-ul, li {
-	margin: .5em;
-	padding-left: .25em;
-	color: #02094F;
-	padding-left:1.25em;
-}
-
-h4 {
-	text-align: center;
-}
-
-
-#food_column> div, #two_column {
-	/* background-color: #02094F; */
+#food_column {
 	padding: 20px;
 	max-width: 40em;
 	margin: auto;
+	width: 1200px;
 }
 
 #recipes {
-	width: 66.66%;
+	width: 65%;
 	float: left;
 	padding: 20px;
 }
 
 #nachos {
-	width: 33.33%;
+	width: 35%;
 	padding: 20px;
 	float: left;
+}
+
+#one_column {
+	background-color: #02094f;
+	border: 1px black solid;
 }
 
 #recipes2 {
@@ -139,45 +124,27 @@ h4 {
 }
 
 #cocktail {
-	color: #FFF;
 	float: left;
 	height: 100%;
 	padding: 5em;
 	width: 65%;
 }
 
-
 #slushy {
 	float: left;
 	width: 35%;
 }
 
-
-#travel_column > div, #home_column {
-	/* background-color: #e7e4ff; */
-	/* width: 1200px; */
-	/* margin: 2em auto; */
-	/* height: 35em; */
-	overflow: hidden;
+#travel_column {
+	width: 1200px;
+	margin: 2em auto;
+	height: 35em;
 }
 
 #charleston {
-	color: #FFF;
 	padding: 20px;
 	line-height: 1.5em;
-	color: #FFF;
-	float: right;
-	width: 50%;
-	height: 100%;
-	padding: 8em;
 }
-
-
-#Charleston {
-	float: right;
-	width: 25%;
-}
-
 
 .clearfix:after {
 	visibility: hidden;
@@ -190,16 +157,12 @@ h4 {
 
 footer {
 	text-align: center;
-	background-color: #02094F;
-	color: #FFF;
+	background-color: #02094f;
+	color: #fff;
 	text-transform: uppercase;
 	padding: 8em;
 }
 
 footer a {
-	color: #FFF;
-}
-
-section#health_column {
-    background: #02094F;
+	color: #fff;
 }
